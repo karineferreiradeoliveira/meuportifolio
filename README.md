@@ -15,20 +15,21 @@ Este site foi criado com o objetivo de:
 🌐 Servir como laboratório para testar ideias de design, performance e usabilidade.
 
 ⚙️ Tecnologias Utilizadas
-HTML5 + CSS3
+ - HTML5 + CSS3
 
-JavaScript Vanilla
+ - JavaScript Vanilla
 
-Tailwind CSS (em migração)
+ - Tailwind CSS (em migração)
 
-Responsivo e otimizado para dispositivos móveis
+ - Responsivo e otimizado para dispositivos móveis
 
-Hospedado via Hostinger
+ - Hospedado via Hostinger
 
 🎨 Estilo e Identidade
 O design segue uma linha minimalista, autoral e delicada, alinhada com a minha estética e identidade pessoal.
 Busquei criar uma experiência suave, com navegação fluida e um toque criativo que me represente.
 
+Estrutura do Projeto
 .
 ├── index.html
 ├── css/
